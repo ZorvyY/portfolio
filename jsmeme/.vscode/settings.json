@@ -1,0 +1,7 @@
+{
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 100,
+    "tslint.enable": false,
+    "tslint.ignoreDefinitionFiles": false,
+    "javascript.validate.enable": false
+}
